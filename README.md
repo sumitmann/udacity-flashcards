@@ -1,6 +1,6 @@
 # FlashCards - Udacity Nanodegree Project
 
-## Instructions
+## Instaaling dependencies:
 
 **1 - `npm install` or `yarn install`**
 
