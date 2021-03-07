@@ -1,0 +1,15 @@
+{
+  "name": "udacity-flashcards",
+  "displayName": "udacity-flashcards",
+  "expo": {
+    "name": "udacity-flashcards",
+    "version": "1.0.0",
+    "slug": "udacity-flashcards",
+    "android": {
+      "useNextNotificationsApi": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
